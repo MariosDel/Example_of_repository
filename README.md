@@ -1,2 +1,2 @@
 # "Example of README.md"
-##Created by *Marios Deligiannis*
+Created by *Marios Deligiannis*
